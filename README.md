@@ -1,4 +1,4 @@
 Rep01
 =====
 
-My first repository on GitHub. Trying out a new thing for first time ever. :)
+## My first repository on GitHub. Trying out a new thing for first time ever. :)
